@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"LSP_Ibihwiori","l":"org.howard.edu.lsp.assignment1"},{"m":"LSP_Ibihwiori","l":"org.howard.edu.lsp.assignment2"}];updateSearchResults();
