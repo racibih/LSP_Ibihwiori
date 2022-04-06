@@ -38,8 +38,9 @@ public class Driver {
 		setB.add(1);
 		setB.add(40);
 		setB.add(3);
-		setB.diff(setA);
 		
+
+		setB.diff(setA);
 		System.out.println("Set B is:" +setB.toString());
 		System.out.println("Set A is:" +setA.toString());
 		try {
